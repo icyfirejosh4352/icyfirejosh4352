@@ -1,5 +1,5 @@
 
-https://icyfirejosh4352.itch.io
+https://icyfire4352.itch.io
 
 https://the-icyfirejosh4352.newgrounds.com/
   
