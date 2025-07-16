@@ -1,6 +1,8 @@
 
-https://icyfire4352.itch.io
-  
+https://icyfire4352.itch.io 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31crrdhkawr5yoe7fryq5a7clxam&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=a1a1a1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31crrdhkawr5yoe7fryq5a7clxam&redirect=true)
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
